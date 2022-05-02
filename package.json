@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-with-jwt-nodemailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sj06101996/E-commerce-with-jwt-nodemailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sj06101996/E-commerce-with-jwt-nodemailer/issues"
+  },
+  "homepage": "https://github.com/sj06101996/E-commerce-with-jwt-nodemailer#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
